@@ -1,6 +1,7 @@
 *{
   margin:0;
   padding:0;
+  font-family: 'DM Sans';
 }
 .world{
   width:100%;
@@ -19,8 +20,6 @@
   top: 40px;
   border: 1px solid #FFFFFF;
   box-sizing: border-box;
-  text-align: center;
-  font-family:'DM Sans';
   padding-top:15px;
   font-size: 24px;
   color:#FFFFFF;
@@ -54,7 +53,6 @@
   height: 90px;
   margin-left: 73px;
   margin-top: 40px;
-  font-family: 'DM Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -75,7 +73,6 @@
   left: 73px;
   top: 50px;
   box-sizing: border-box;
-  font-family: 'DM Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -89,7 +86,6 @@
   left: 73px;
   top: 100px;
   box-sizing: border-box;
-  font-family: 'DM Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -119,7 +115,6 @@
   margin-top: 10px;
   background: #000000;
   border-radius: 12px;
-  font-family: 'DM Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -270,7 +265,6 @@
     height:35vh;
     margin-left: -63px;
     top:40px;
-    background-color: aqua;
     font-size: 20px;
   }
   .boxName2{
@@ -317,6 +311,5 @@
     font-weight: 700;
     font-size: 50px;
     line-height: 60px;
-    letter-spacing: -0.05em;
   }
 }
