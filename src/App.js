@@ -5,22 +5,26 @@ function App() {
   return (
 
     <body>
-      <div className="world">
-        <div className="header">
-          <div className="logo">MyTestApp</div>
-        </div>
-        <div className="hero">
-          <div className="title">Watch Something Incredible.</div>
-        </div>
-      </div> 
-      <div className="body">
-        <div className="search">
-          Search
-          <input type="text" className="searchBox" />
-        </div>
-        <div className="boxName">
+    <div className="world">
+      <div className="header">
+        <div className="logo">MyTestApp</div>
+      </div>
+      <div className="hero">
+        <div className="title">Watch Something Incredible.</div>
+      </div>
+    </div> 
+    <div className="body">
+      <div className="search">
+        Search
+        <input type="text" className="searchBox" />
+      </div>
+      <div className="boxName">
           $Movie Category Name
           <div className="box">
+            <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
             <div className="box1">$Movie Name</div>
             <div className="box1">$Movie Name</div>
             <div className="box1">$Movie Name</div>
@@ -36,10 +40,15 @@ function App() {
             <div className="box1">$Movie Name</div>
             <div className="box1">$Movie Name</div>
             <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
+            <div className="box1">$Movie Name</div>
           </div>
         </div>
-      </div>
-    </body>
+    </div>
+  </body>
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
